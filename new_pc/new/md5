@@ -1,0 +1,43 @@
+--name--  manjusaka-x86_64
+--domain--  editor
+55a217e03be84c330f6c004526ab2694  /usr/bin/vi
+55a217e03be84c330f6c004526ab2694  /usr/bin/vim
+3e72cb4df173a5fa8393957ed017bc1c  /usr/bin/gedit
+55a217e03be84c330f6c004526ab2694  /usr/bin/gvim
+23a530b0cff671a6228cfc2e30452898  /usr/bin/diff
+9ab79a0c25c3ac6ed82ff5ec2fd5d216  /usr/bin/python
+0d18127766eab1ff3474eecd08cbcd2e  /bin/grep
+c20846a0514861ea6276650e43ddd7a4  /bin/sed
+5c561dfc2304deef3373f111b03c0b45  /usr/bin/less
+dee1ab7a3d4e2c15717aa0dfe8aea7d3  /bin/more
+4ed0709b1c10d8ac561101d29aa720fb  /usr/bin/ctags
+c891afd6bf8ab05050e0bbed713b9009  /usr/bin/cscope
+feafb393f9c01774d2f32a374c9fb98e  /usr/bin/evince
+e3c68f564d816d713fc77e381b9f3afd  /usr/lib/libreoffice/program/soffice.bin
+8e237835d8f1950a59189f4970100006  /usr/lib/beyondcompare/BCompare
+866ce01a03525a9c11aa56629617ab22  /opt/google/chrome/chrome
+a8b1651658e57bfdc7c006d5b755f03f  /opt/kingsoft/wps-office/office6/et
+106c4544bf874d2c65730c354ad4f162  /opt/kingsoft/wps-office/office6/wpp
+6cafc55cd59d80edf1e2b8afdbcc3378  /opt/kingsoft/wps-office/office6/wps
+d3ab51cbe82bf10259b82c38f0a80a44  /home/manjusaka/opt/foxitsoftware/foxitreader/FoxitReader
+--end--
+--domain--  compiler
+151b04224c74b269655c967022e7d8d7  /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java
+f672677ca95c678d95982c2f64b8f815  /usr/lib/jvm/java-8-openjdk-amd64/bin/javac
+6727e5949512d3efd659806ac5f6a9ad  /usr/lib/jvm/java-7-openjdk-amd64/jre/bin/java
+08bdf57e3204dd9a7fc9a937799ea81a  /usr/lib/jvm/java-7-openjdk-amd64/bin/javac
+c0ee55b682b5a933193382310d330cf9  /opt/jdk1.6.0_37/bin/java
+b66ba51e8319fa91294eb054da287f92  /opt/jdk1.6.0_37/bin/javac
+877308b76e102a1900becb93ce7c7ebb  /usr/lib/x86_64-linux-gnu/qt4/bin/qmake
+3575b67a429eaa090c753d703eeb29fe  /usr/bin/qtchooser
+7d76d16ad9cb598a5c723ae0d0bbbc9a  /usr/bin/sip
+dbcf34c9433a2b93c8b8233da720515b  /usr/bin/install
+001b3134bbe71f6b1e309988e21dc22e  /usr/local/bin/pyinstaller
+--end--
+--domain--  cross-compiler
+--end--
+--domain--  svn-git
+d75d2c89ba9e099248438686ea005765  /usr/bin/git
+e8fb4eb0379d5688580ae966d1df35b6  /usr/lib/git-core/git-remote-http
+d75d2c89ba9e099248438686ea005765  /usr/lib/git-core/git
+--end--

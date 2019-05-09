@@ -1,0 +1,15 @@
+RUN TO INTSTALL FOR 1604
+
+bash 1_1604.sh
+bash 2_1604.sh
+bash 5_gitcode.sh /home/$(whoami)/tools_code
+bash 7_misc_setup.sh
+
+
+下面的比较耗时间：
+bash 3_1604_manul.sh
+
+
+加密相关：
+bash 8_gen_md5_for_xhsj.sh
+
